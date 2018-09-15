@@ -11,7 +11,7 @@ class Solution:
     #         i = i + 1
     #     return True
 
-    def IsChong(self, s):
+    def IsChong(self, s):  #判断字符串中是否有重复的，这个函数比上一个函数要更快一些
         long = len(s)
         if long >96:
             return False
