@@ -1,7 +1,4 @@
 class Solution:
-    ##
-    ##2019年1月12日修改
-    ##
     # def IsChong(self, s):
     #     i = 0
     #     long = len(s)
